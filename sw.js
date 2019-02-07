@@ -6,7 +6,7 @@ const CACHE_DYNAMIC_NAME = 'ITK_cache_dinamico';
 const CACHE_INMUTABLE_NAME = 'ITK_cache_inmutable';
 
 const APP_SELL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
