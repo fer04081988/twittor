@@ -1,8 +1,8 @@
 //imporrts
 importScripts('js/sw-util.js');
 
-const CACHE_STATIC_NAME = 'ITK_cache_estatico-v3';
-const CACHE_DYNAMIC_NAME = 'ITK_cache_dinamico';
+const CACHE_STATIC_NAME = 'ITK_cache_estatico-v4';
+const CACHE_DYNAMIC_NAME = 'ITK_cache_dinamico-v2';
 const CACHE_INMUTABLE_NAME = 'ITK_cache_inmutable';
 
 const APP_SELL = [
